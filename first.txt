@@ -3,3 +3,4 @@ hello world
 ・git commit
 ・git rm（ファイルを削除）
 ・git status
+・git diff
