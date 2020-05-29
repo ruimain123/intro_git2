@@ -1,3 +1,4 @@
 hello world
 ・git add
 ・git commit
+・git rm（ファイルを削除）
